@@ -1,0 +1,2 @@
+# AzureLaneTranslator
+アズールレーンの中日翻訳ブックマークレット
