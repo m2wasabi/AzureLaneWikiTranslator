@@ -1,4 +1,4 @@
-# AzureLaneTranslator
+# AzureLaneWikiTranslator
 アズールレーンの中日翻訳ブックマークレット
 
 ## 使い方
