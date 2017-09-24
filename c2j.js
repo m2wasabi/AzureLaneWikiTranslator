@@ -168,7 +168,7 @@ cj={
     '轻母':'軽空母',
     '航母':'空母'
 };
-if(document.location.href == 'http://wiki.joyme.com/blhx/%E8%88%B0%E5%A8%98%E5%AE%9A%E4%BD%8D%E7%AD%9B%E9%80%89'){
+if(document.location.href.substr(0,27) == 'http://wiki.joyme.com/blhx/'){
     $("tbody a").each(function(){
         var txt = $(this).text();
         if (txt in cj) $(this).text(cj[txt]);
